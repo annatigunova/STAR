@@ -2,7 +2,7 @@
 STAR is an approach adapting Learned Sparse Retrieval for Recommendation. We provide code and data to run the model on three categories in the Amazon dataset: Books, Movies and TV, Video Games. 
 The models that you can run:
 - STAR - BERT-based bi-encoder with MLM head and sparse regularizer
-- [CUP](https://arxiv.org/pdf/2311.01314.pdf) - BERT-based bi-encoder with MLP, producind 200-dim representations
+- [CUP](https://arxiv.org/pdf/2311.01314.pdf) - BERT-based bi-encoder with MLP, producing 200-dim representations
 - BERT_cross - cross encoder
 
 ## 1. Train the models
