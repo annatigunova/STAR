@@ -4,6 +4,8 @@ The models that you can run:
 - STAR - BERT-based bi-encoder with MLM head and sparse regularizer
 - [CUP](https://arxiv.org/pdf/2311.01314.pdf) - BERT-based bi-encoder with MLP, producing 200-dim representations
 - BERT_cross - cross encoder
+  
+The data can be found here: https://www.dropbox.com/scl/fo/2f5cpy44hv0ex6d56jhe3/AFP1ATUNErG3LsxjucMPQBE?rlkey=l03iugfz3ydg5c9l8tdphb73f&st=gjugs6dy&dl=0
 
 ## 1. Train the models
 ```
